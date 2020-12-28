@@ -7,4 +7,4 @@ https://youtu.be/7zonrHCDB9M
 1) Flutter SDK
 ## Screenshots:
 ![alt text](./screenshots/Screenshot_1609160873.png)
-![alt text](./screenshots/Screenshot_1609160880.jpg)
+![alt text](./screenshots/Screenshot_1609160880.png)
